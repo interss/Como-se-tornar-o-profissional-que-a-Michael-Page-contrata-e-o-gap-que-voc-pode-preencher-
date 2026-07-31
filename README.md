@@ -92,11 +92,22 @@ fonte no NotebookLM.
 
 | Prompt (#) | Resposta obtida | Fontes citadas pelo NotebookLM | Dificuldade encontrada | Como resolvi |
 |---|---|---|---|---|
-| 1 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 2 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 3 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 4 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 5 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
+| 1 | `Os **5 sinais que chamam a atenção e geram confiança** em uma entrevista, também referidos como os cinco pilares, são:
+
+1. **Clareza**: A capacidade de apresentar o que você faz de forma compreensível e direta.
+2. **Profundidade**: Demonstrar detalhes profundos sobre como você construiu um projeto ou solução, seja na parte técnica ou comportamental.
+3. **Raciocínio**: Apresentar a lógica de pensamento que você utilizou ao longo do desenvolvimento do seu trabalho.
+4. **Contexto**: Explicar qual era o objetivo real por trás da criação daquela solução e até onde você pretendia chegar.
+5. **Capacidade de explicar decisões**: Conseguir justificar de maneira clara e embasada o porquê de ter escolhido um determinado caminho técnico ou estratégico em vez de outro.
+
+---
+
+💡 Se você quiser, podemos analisar o que as fontes dizem sobre como esses sinais se aplicam na prática para diferenciar os candidatos na hora de responder às perguntas dos gestores.` | `**Fonte exata:**
+Todos esses sinais são apontados pelo recrutador sênior Camilo no vídeo **"Talent Trends 2026: o que mudou no mercado tech?"**.` | `Estruturar o prompt` | `Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt` |
+| 2 | `[PREENCHER]` | `[PREENCHER]` | `Estruturar o prompt` | `Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt` |
+| 3 | `[PREENCHER]` | `[PREENCHER]` | `Estruturar o prompt` | `Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt` |
+| 4 | `[PREENCHER]` | `[PREENCHER]` | `Estruturar o prompt` | `Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt` |
+| 5 | `[PREENCHER]` | `[PREENCHER]` | `Estruturar o prompt` | `Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt` |
 
 Dificuldades comuns esperadas com NotebookLM (para orientar o preenchimento acima):
 respostas que misturam fontes em português e trechos mal transcritos (as legendas do
