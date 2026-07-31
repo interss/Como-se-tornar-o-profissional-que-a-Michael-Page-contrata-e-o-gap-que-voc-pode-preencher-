@@ -1,10 +1,10 @@
 # Caderno Temático — Como se tornar o profissional que a Michael Page contrata (e o gap que você pode preencher)
 
 Projeto do desafio **"Caderno Temático no NotebookLM"** (DIO), usando IA como ferramenta
-de aprendizagem ativa. Tema escolhido: **os critérios reais de contratação da Michael
+de aprendizagem ativa. Tema escolhido: **os critérios de contratação da Michael
 Page para vagas de tecnologia** — extraídos diretamente de recrutadores da empresa — e,
-a partir disso, **um projeto de IA que gera impacto real para a Michael Page**, cobrindo
-uma lacuna que a própria empresa expõe em seu material público.
+a partir disso, **um projeto de IA que gera impacto real para a Michael Page**, contribuindo para
+uma lacuna que a empresa atualmente possui em seu material público.
 
 ---
 
@@ -12,7 +12,7 @@ uma lacuna que a própria empresa expõe em seu material público.
 
 ### Por que esse tema
 
-A Michael Page fez uma parceria com a DIO para lançar o bootcamp gratuito *"Criando seu
+A Michael Page fez uma parceria com a DIO para lançar o bootcamp *"Criando seu
 primeiro agente de IA"*, com três mentorias conduzidas por recrutadores reais da empresa
 (Camilo e Júlia, ambos da divisão de tecnologia) mais uma live de lançamento com o time
 de marketing (Manuela). Nesses quatro encontros, os recrutadores descrevem, com
@@ -32,7 +32,7 @@ motiva a segunda metade deste projeto.
 
 ### Objetivos de estudo
 
-1. Extrair e organizar, a partir das quatro mentorias, os critérios reais que fazem um
+1. Extrair e organizar, a partir das quatro mentorias, os critérios que fazem um
    candidato avançar em processo seletivo na Michael Page.
 2. Estruturar esse conhecimento em um miniguia aplicável, por estágio de carreira
    (júnior → pleno → sênior), com passos concretos de preparação.
@@ -67,7 +67,7 @@ fonte no NotebookLM.
 > operacional ao NotebookLM a partir daqui. Por isso, esta seção é entregue como um
 > **kit pronto para execução**: perguntas estratégicas desenhadas, variações de prompt
 > já pensadas para antecipar problemas comuns do NotebookLM, e uma tabela de registro
-> com campos em aberto. **Eu, como aluno, preciso rodar cada prompt no meu caderno real
+> com campos em aberto. **Eu, como aluno, precisei rodar cada prompt no meu caderno real
 > e preencher os campos `[PREENCHER]`** com a resposta obtida, as fontes que o
 > NotebookLM citou e a dificuldade que encontrei. Isso é o que a DIO pede — pensamento
 > crítico e raciocínio documentado, não um resultado fabricado.
@@ -92,11 +92,11 @@ fonte no NotebookLM.
 
 | Prompt (#) | Resposta obtida | Fontes citadas pelo NotebookLM | Dificuldade encontrada | Como resolvi |
 |---|---|---|---|---|
-| 1 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 2 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 3 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 4 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
-| 5 | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` | `[PREENCHER]` |
+| "Segundo as fontes, quais são os 5 sinais que geram confiança em uma entrevista na Michael Page? Cite a fonte exata de cada um." | Os 5 sinais (os "cinco pilares"): **Clareza** — capacidade de apresentar o que você faz de forma compreensível e direta; **Profundidade** — demonstrar detalhes profundos sobre como você construiu um projeto ou solução, seja na parte técnica ou comportamental; **Raciocínio** — apresentar a lógica de pensamento utilizada ao longo do desenvolvimento do trabalho; **Contexto** — explicar qual era o objetivo real por trás da criação daquela solução e até onde pretendia chegar; **Capacidade de explicar decisões** — justificar de forma clara e embasada o porquê de ter escolhido um determinado caminho técnico ou estratégico em vez de outro. | Vídeo "Talent Trends 2026: o que mudou no mercado tech?" (recrutador sênior Camilo) | Estruturar o prompt | Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt |
+| "Compare o que a Júlia diz sobre 'diferencial que não é usar IA, mas como e por que usar' com o que a Manuela diz sobre 'barreira de acesso ao conhecimento'. Existe uma tensão ou eles se complementam?" | `[PREENCHER]` | `[PREENCHER]` | Estruturar o prompt | Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt |
+| "Monte uma tabela com o que muda entre um candidato júnior, pleno e sênior segundo a Júlia na mentoria 3, com as perguntas típicas que cada nível faz." | `[PREENCHER]` | `[PREENCHER]` | Estruturar o prompt | Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt |
+| "O site da Michael Page (fontes 05 e 06) oferece algum curso, simulador ou ferramenta de prática para candidatos? Liste tudo que existe hoje." | `[PREENCHER]` | `[PREENCHER]` | Estruturar o prompt | Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt |
+| "Quais expectativas os recrutadores da Michael Page dizem ter dos candidatos que **não** são atendidas por nenhuma ferramenta hoje disponível no site da própria empresa?" | `[PREENCHER]` | `[PREENCHER]` | Estruturar o prompt | Usei o Claude Code via CLI para otimizar minha ideia e gerar em seguida o prompt |
 
 Dificuldades comuns esperadas com NotebookLM (para orientar o preenchimento acima):
 respostas que misturam fontes em português e trechos mal transcritos (as legendas do
